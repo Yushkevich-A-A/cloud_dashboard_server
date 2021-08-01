@@ -20,6 +20,7 @@
   "homepage": "https://github.com/Yushkevich-A-A/cloud_dashboard_server#readme",
   "dependencies": {
     "forever": "^4.0.1",
+    "http-event-stream": "^0.2.0",
     "koa": "^2.13.1",
     "koa-body": "^4.2.0",
     "koa-combine-routers": "^4.0.2",
